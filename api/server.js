@@ -1,6 +1,6 @@
 const express = require("express");
 
-const DnD = require("../dnd/dndModel");
+const DnD = require("../dnd/dndModel.js");
 
 const server = express();
 
